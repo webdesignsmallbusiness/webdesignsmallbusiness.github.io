@@ -1,0 +1,11 @@
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "Web Design Small Business UK" # the name of your site, e.g. ACME Corp.
+description: Welcome to my web design services for small businesses ain the UK area. I provide custom designed websites and development services for the whole UK area.
+sidebar_text_1: It's Lukasz and I work for small businesses all around the uk area.
+
+
+point1: Specialised for small businesses
+point2: Affordable rates 
+point3: Mobile ready websites
+point4: Hosting Service Included
