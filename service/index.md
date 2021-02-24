@@ -5,8 +5,8 @@ permalink: /service/
 ---
 
 
-* [Responsive Web Design](/service/website-development)
+* [Responsive Web Design](/service/responsive-web-design)
 * [Search Engine Optimization](/service/seo)
-* [AdWords](/service/adwords)
+* [AdWords](/service/sem-marketing)
 * [Social Media](/service/social-media)
 * [Copywriting](/service/copywriting)
